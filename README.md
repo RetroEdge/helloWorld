@@ -1,2 +1,6 @@
-# helloWorld
-me just messing around with github to get used to it
+# Introduction
+Hi!  My name is Retro.  I'm a self taught programmer with a decent amount of experience with the following:
+* Python
+* Java
+* Lua
+* C#
